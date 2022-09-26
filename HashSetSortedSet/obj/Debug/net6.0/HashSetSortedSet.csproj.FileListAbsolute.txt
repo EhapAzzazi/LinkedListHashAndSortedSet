@@ -1,0 +1,15 @@
+D:\New Course\LinkedLists Sets\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.exe
+D:\New Course\LinkedLists Sets\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.deps.json
+D:\New Course\LinkedLists Sets\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.runtimeconfig.json
+D:\New Course\LinkedLists Sets\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.dll
+D:\New Course\LinkedLists Sets\HashSetSortedSet\bin\Debug\net6.0\HashSetSortedSet.pdb
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.csproj.AssemblyReference.cache
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.AssemblyInfoInputs.cache
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.AssemblyInfo.cs
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.csproj.CoreCompileInputs.cache
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.dll
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\refint\HashSetSortedSet.dll
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.pdb
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\HashSetSortedSet.genruntimeconfig.cache
+D:\New Course\LinkedLists Sets\HashSetSortedSet\obj\Debug\net6.0\ref\HashSetSortedSet.dll

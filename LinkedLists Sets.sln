@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetSortedSet", "HashSetSortedSet\HashSetSortedSet.csproj", "{4050175F-DB77-4949-9E1D-EB4ED739F19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{AB536E6B-5747-4419-83F8-08263549AED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4050175F-DB77-4949-9E1D-EB4ED739F19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4050175F-DB77-4949-9E1D-EB4ED739F19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4050175F-DB77-4949-9E1D-EB4ED739F19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4050175F-DB77-4949-9E1D-EB4ED739F19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB536E6B-5747-4419-83F8-08263549AED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB536E6B-5747-4419-83F8-08263549AED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB536E6B-5747-4419-83F8-08263549AED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB536E6B-5747-4419-83F8-08263549AED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5811939C-862F-4507-99E8-7FE1B5C9BE2A}
+	EndGlobalSection
+EndGlobal

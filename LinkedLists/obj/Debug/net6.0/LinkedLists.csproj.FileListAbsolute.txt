@@ -1,0 +1,15 @@
+D:\New Course\LinkedLists Sets\LinkedLists\bin\Debug\net6.0\LinkedLists.exe
+D:\New Course\LinkedLists Sets\LinkedLists\bin\Debug\net6.0\LinkedLists.deps.json
+D:\New Course\LinkedLists Sets\LinkedLists\bin\Debug\net6.0\LinkedLists.runtimeconfig.json
+D:\New Course\LinkedLists Sets\LinkedLists\bin\Debug\net6.0\LinkedLists.dll
+D:\New Course\LinkedLists Sets\LinkedLists\bin\Debug\net6.0\LinkedLists.pdb
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\LinkedLists.csproj.AssemblyReference.cache
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\LinkedLists.AssemblyInfoInputs.cache
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\LinkedLists.AssemblyInfo.cs
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\LinkedLists.csproj.CoreCompileInputs.cache
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\LinkedLists.dll
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\refint\LinkedLists.dll
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\LinkedLists.pdb
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\LinkedLists.genruntimeconfig.cache
+D:\New Course\LinkedLists Sets\LinkedLists\obj\Debug\net6.0\ref\LinkedLists.dll
